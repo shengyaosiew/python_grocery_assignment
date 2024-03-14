@@ -1,0 +1,2 @@
+kakak	kakak123	admin
+abang	111	inventory-checker
